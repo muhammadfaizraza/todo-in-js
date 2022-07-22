@@ -1,0 +1,29 @@
+body{
+    background:lightblue;
+    text-align:center;
+    box-sizing:border-box;
+    font-family:"Lato",Sans-serif;
+
+  }
+  button{
+      margin: 8px;
+      color: black ;
+      background-color: rgb(238, 217, 30);
+      border-radius: 22px;
+      border: rgb(255, 255, 255) 2px solid;
+      padding: 5px;
+      
+  }
+  button:hover{
+    color: rgb(255, 255, 255) ;
+    background-color: rgb(7, 206, 0);
+    padding: 9px;
+  }
+  input[type=text]{
+padding: 9px;
+background: rgb(0, 0, 0);
+color: white;
+  } 
+  li{
+      list-style: none;
+  }
